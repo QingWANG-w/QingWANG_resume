@@ -74,7 +74,7 @@ $(document).ready(function () {
     ////////////////
     //CLONE NAME AND SOCIAL BUTTONS
     ////////////////
-    $('#titleName, #socialIcons').clone().appendTo('#sticker');
+    // $('#titleName, #socialIcons').clone().appendTo('#sticker');
 
     ////////////////
     //RESPONSIVE CHECK
@@ -87,23 +87,23 @@ $(document).ready(function () {
         }
     }
 
-    responsive();
+    // responsive();
 
     ////////////////
     //WINDOW SCROLL
     ////////////////
-    view.scroll(function () {
-        //SHOW/HIDE TOP PANEL
-        if (view.scrollTop() > 140) {
-            $('#sticker').stop().animate({top: "0"}, 500);
-        } else {
-            $('#sticker').stop().animate({top: "-60px"}, 500);
-        }
+    // view.scroll(function () {
+    //     //SHOW/HIDE TOP PANEL
+    //     if (view.scrollTop() > 140) {
+    //         $('#sticker').stop().animate({top: "0"}, 500);
+    //     } else {
+    //         $('#sticker').stop().animate({top: "-60px"}, 500);
+    //     }
 
-        //PARALLAX BACKGROUND STUFF
-        var scrollPosition = $(window).scrollTop() * .25;
-        body.css({backgroundPosition: '0px -' + scrollPosition + 'px'});
-    });
+    //     //PARALLAX BACKGROUND STUFF
+    //     var scrollPosition = $(window).scrollTop() * .25;
+    //     body.css({backgroundPosition: '0px -' + scrollPosition + 'px'});
+    // });
 
     ////////////////
     //WINDOW RESIZE

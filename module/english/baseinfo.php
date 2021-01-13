@@ -1,5 +1,5 @@
 <!--INTRODUCE NAME-->
-<h2 id="titleName" class="sectionHead">ZHIHUA·WEI</h2>
+<h2 id="titleName" class="sectionHead">QING·WANG</h2>
 
 <!--BASE INFORMATION-->
 <div id="bio">

@@ -23,7 +23,7 @@
 		</p>
 
 		<!-- EMAIL SUBJECT -->
-		<input name="subject" id="subject" type="hidden" value="ZHIHUA·WEI Resume Email Message"/>
+		<input name="subject" id="subject" type="hidden" value="QING·WANG Resume Email Message"/>
 		<!-- YOUR EMAIL ADDRESS -->
 		<input name="repemail" id="repemail" type="hidden" value="zhihua_wei@qq.com"/>
 		<!-- ENTER YOUR URL BELOW: MUST CONTAIN #contact AT THE END OF THE URL-->

@@ -2,8 +2,8 @@
 
 /**
  * ===============================================
- * Created by ZHIHUA·WEI.
- * Author: ZHIHUA·WEI <zhihua_wei@foxmail.com>
+ * Created by QING·WANG.
+ * Author: QING·WANG <zhihua_wei@foxmail.com>
  * Date: 2017/12/25 0003
  * Time: Pm 15:03
  * Project: ZHIHUA.WEI Resume
